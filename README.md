@@ -27,3 +27,5 @@ To use the notebooks, clone them (and their associated files) from this reposito
 
 ## Credits
 These notebooks began as curriculum developed by Julia Roberts, a mathematics teacher at Cupertino High School in San Jose. The curriculum was modified and adapted into notebooks by Renee Trochet, a mathematics teacher at Eastside College Prep in East Palo Alto. This series of lessons was created with support from Professor Mykel Kochenderfer at Stanford University, under a grant from the National Science Foundation through the IISME (Industry Initiatives for Science and Math Education) program.
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marcdhansenesi/OptimizationCourse/HEAD)
