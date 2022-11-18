@@ -26,9 +26,9 @@ This unit introduces the foundational concepts of optimization, iteration, and r
 Individual Lessons (pdf):  
 [1.1 Optimization](MO-unit1-pdfs/1.1optimization.pdf): overview, about the course  
 [1.2 Vectors](MO-unit1-pdfs/1.2vectors.pdf): definition and applications  
-[1.3 Iteration and Recursion 1](MO-unit1-pdfs/1.3iterationandrecursion.pdf): definition and examples including Fibonacci numbers  
-[1.4 Iteration and Recursion 2](MO-unit1-pdfs/1.4iterationandrecursion2.pdf): secant method  
-[1.5 Iteration and Recursion 3](MO-unit1-pdfs/1.5iterationandrecursion3.pdf): finding a three-point interval containing a max/min  
+[1.3 Iteration and Recursion 1](MO-unit1-pdfs/1.3iterationrecursion.pdf): definition and examples including Fibonacci numbers  
+[1.4 Iteration and Recursion 2](MO-unit1-pdfs/1.4iterationrecursion2.pdf): secant method  
+[1.5 Iteration and Recursion 3](MO-unit1-pdfs/1.5iterationrecursion3.pdf): finding a three-point interval containing a max/min  
 [1.6 Julia Basics](MO-unit1-pdfs/1.6juliabasics.pdf): access, basic operations  
 [1.7 If-Else](MO-unit1-pdfs/1.7if-else.pdf): structure in Julia, test conditions  
 [1.8 Iterative Loops](MO-unit1-pdfs/1.8iterativeloops.pdf): for and while loops in Julia  
